@@ -1,0 +1,10 @@
+{
+  "name": "pi-fireworks-provider",
+  "version": "1.0.0",
+  "description": "Fireworks AI provider for pi — 10 models via Fireworks API, including DeepSeek V4 Pro/Flash, Kimi K2.6/2.7, Qwen3.6/3.7, MiniMax M2.7/M3, GLM 5.1, GPT-OSS 120B",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "pi": {
+    "extensions": ["./extensions"]
+  }
+}
